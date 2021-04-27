@@ -19,3 +19,5 @@ deploy:
     script: ./release.sh
     on:
       branch: main
+
+
