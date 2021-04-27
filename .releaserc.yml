@@ -1,3 +1,5 @@
+branches:
+  - main
 plugins:
   - '@semantic-release/commit-analyzer'
   - '@semantic-release/release-notes-generator'
@@ -8,6 +10,4 @@ plugins:
         - CHANGELOG.md
         - appmap_swagger.gemspec
         - lib/appmap/swagger/version.rb
-  - - '@semantic-release/github'
-    - branches:
-        - main
+  - '@semantic-release/github'
