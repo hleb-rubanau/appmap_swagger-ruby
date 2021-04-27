@@ -1,3 +1,10 @@
+## [0.4.1](https://github.com/hleb-rubanau/appmap_swagger-ruby/compare/v0.4.0...v0.4.1) (2021-04-27)
+
+
+### Bug Fixes
+
+* **build:** enable back github plugin ([bd82720](https://github.com/hleb-rubanau/appmap_swagger-ruby/commit/bd82720eb4a180ce259ecc4478c0ce4a94a708df))
+
 # [0.4.0](https://github.com/hleb-rubanau/appmap_swagger-ruby/compare/v0.3.0...v0.4.0) (2021-04-27)
 
 
