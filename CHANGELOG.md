@@ -1,3 +1,10 @@
+# [0.4.0](https://github.com/hleb-rubanau/appmap_swagger-ruby/compare/v0.3.0...v0.4.0) (2021-04-27)
+
+
+### Features
+
+* **build:** temporary disable github plugin (troubleshooting ENORELEASEBRANCH) ([7c1c753](https://github.com/hleb-rubanau/appmap_swagger-ruby/commit/7c1c753df91d346624beeded76bad106525d789b))
+
 # [0.3.0](https://github.com/hleb-rubanau/appmap_swagger-ruby/compare/v0.2.0...v0.3.0) (2021-04-27)
 
 
