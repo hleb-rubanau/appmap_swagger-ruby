@@ -10,4 +10,4 @@ plugins:
         - CHANGELOG.md
         - appmap_swagger.gemspec
         - lib/appmap/swagger/version.rb
-  #- '@semantic-release/github'
+  - '@semantic-release/github'
